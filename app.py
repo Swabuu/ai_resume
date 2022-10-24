@@ -219,7 +219,7 @@ st.write(
 # --- JOB 9
 st.write("#")
 st.write("🚧", "**Routing Officer | Fortytwo.**")
-st.write("01/2015 - 04/2016")
+st.write("04/2014 - 01/2015")
 st.write(
     """
 - ► Optimized in-house routing systems, wholesale products and tailor-made solutions
@@ -229,6 +229,33 @@ st.write(
 - ► Made sure the A2P products were as stable and profitable as possible
 - ► Conducted price and market research
 - ► "On-Call" for emergencies to ensure quality regardless of the hour
+"""
+)
+
+# --- JOB 10
+st.write("#")
+st.write("🚧", "**Sales Executive | Fortytwo.**")
+st.write("01/2014 - 04/2014")
+st.write(
+    """
+- ► Account managed ~300 Swedish clients, mainly enterprise customers
+- ► Manged a handful of international key accounts
+- ► Set up and maintained the SMS-MO numbers
+"""
+)
+
+# --- JOB 11
+st.write("#")
+st.write("🚧", "**Customer Support Representative | Fortytwo.**")
+st.write("07/2013 - 01/2014")
+st.write(
+    """
+- ► First line support for multiple A2P SMS and HLR products, both internal and external. Assisting clients via email, instant messaging and telephone in a very high pace
+- ► Analyzed operator information to keep the system up-to-date
+- ► Monitored SMS MT and MO traffic flows and escalated irregularities internally and externally
+- ► Documented valuable information and procedures
+- ► Shift work in a dynamic team
+
 """
 )
 
