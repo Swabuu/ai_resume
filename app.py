@@ -20,16 +20,13 @@ Telecom Enthusiast | Business Analyst | Python Programming Hobbyist
 """
 EMAIL = "antonivarsson@proton.me"
 SOCIAL_MEDIA = {
-    #"YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://linkedin.com/in/anton-ivarsson",
     "GitHub": "https://github.com/Swabuu",
     #"Twitter": "https://twitter.com",
 }
 PROJECTS = {
     "🏆 mnoinfo.com - Webscraped mobile network operator data. Includes subscriber counts and network owners as well as the technology used": "https://www.mnoinfo.com/",
-    "🏆 A simple Android application which parses incoming SMS messages and sends the Sender ID, MSISDN (destination), SMS Body and SMSC-address to an external webservice": "https://github.com/Swabuu/testunit",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
+    "🏆 A simple Android application which parses incoming SMS messages and sends the Sender ID, MSISDN (destination), SMS Body and SMSC-address to an external webservice": "https://github.com/Swabuu/testunit"
 }
 
 
