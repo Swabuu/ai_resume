@@ -30,7 +30,7 @@ PROJECTS = {
 }
 
 
-st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
+#st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 hide_st_style = """
             <style>
             #MainMenu {visibility: hidden;}
